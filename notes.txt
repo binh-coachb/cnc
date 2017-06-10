@@ -1,0 +1,10 @@
+x homing = 550
+z = 320
+y = 1200
+
+3 D 9 B 9 4 A 9 8 B - 7 6 A 8 - 4 8 1 0 - B 1 A 0 - 4 B E 7 C 4 F 9 C 9 8 D A 2 # 1Q 0 5 D V V N C Q 2 9 u d H J v b G x l c i U =  1Q 0 5 D V V N C Q 2 9 u d H J v b G x l c i Q
+3D9B94A98B-76A8-4810-B1A0-4BE7C4F9C98DA2
+3D9B94A98B-76A8-4810-B1A0-4BE7C4F9C98DA2#1Q05DVVNCQ29udHJvbGxlciU
+
+
+
